@@ -1,0 +1,6 @@
+numpy
+email-validator
+psycopg2
+bcrypt
+PyJWT
+
